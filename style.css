@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0
+}
+.parent:first-of-type {
+  background: #ffffff url("https://humanoriginproject.com/wp-content/uploads/2019/08/Yuga-cycles-vedic-astronomy.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(2) {
+  background: #ffffff url("https://www.templepurohit.com/wp-content/uploads/2017/04/Matsya-Avatar-Story-Why-did-lord-vishnu-take-the-matsya-avatar.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(3) {
+  background: #ffffff url("https://upload.wikimedia.org/wikipedia/commons/e/eb/As_a_bridge_is_built%2C_the_word_Ram_is_written_on_every_brick%2C_so_the_bricks_floa.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:nth-of-type(4) {
+  background: #ffffff url("https://qph.cf2.quoracdn.net/main-qimg-7f2abc81dbe5c05c94a9968db55deb7e-lq") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent:last-of-type {
+  background: #ffffff url("https://themodernhindu.files.wordpress.com/2017/07/kalki-the-destroyer1.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+.parent {
+  width: 100%;
+  height: 150vh;
+  color: #fff;
+  text-shadow: 0 0 5px #000;
+  font-family: tahoma;
+  text-align: center;
+  line-height: 180%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden
+}
+.parent p {
+  padding: 25px
+}
+div.container{
+  align-items: center;
+}
+ol.list {
+  display: inline-block;
+  text-align: left;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  opacity:0.7;
+}
+h5{
+  text-align:center;
+}
+
